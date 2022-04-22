@@ -1,0 +1,12 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>slchris-overlay</name>
+    <description>slchris-overlay</description>
+    <owner>
+      <email>chris@lesscrowds.org</email>
+      <name>Chris Su</name>
+    </owner>
+    <source type="git">https://github.com/slchris/slchris-overlay.git</source>
+  </repo>
+</repositories>
+
