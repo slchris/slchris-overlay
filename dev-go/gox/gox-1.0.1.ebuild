@@ -20,7 +20,7 @@ src_prepare() {
 }
 
 src_compile() {
-	go mod vendor && go build -mod=vendor . || die
+	go build -mod=vendor . || die
 }
 
 src_install() {
